@@ -1,18 +1,16 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Avoid mac OS files
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
 
-# Other files and folders
-.settings/
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+**/.ipynb_checkpoints
