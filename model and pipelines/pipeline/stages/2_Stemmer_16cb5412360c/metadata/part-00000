@@ -1,1 +1,0 @@
-{"class":"__main__.Stemmer","timestamp":1645737590022,"sparkVersion":"3.2.0","uid":"Stemmer_16cb5412360c","paramMap":{"inputCol":"full_text_words_clean","outputCol":"stemmed"},"defaultParamMap":{"outputCol":"Stemmer_16cb5412360c__output"}}
