@@ -64,7 +64,7 @@ Convert every word in the list to its stem using the NLTK PorterStem instance, t
 ---
 ## Setup and running the code:
 Running on Google Collaboratoy:
-Upload *Final Project.ipynb* file to google drive, launch it using Google Collaboratoy, and follow the instructions
+Upload *Final Project.ipynb* file to google drive, launch it using Google Collaboratoy, and run the code.
 
 Any other platform:
 Clone the repo using the following command in terminal:<br>
